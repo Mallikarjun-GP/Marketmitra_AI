@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+data/processed/*.parquet
+data/reports/
+data/vector_store/
+
+streamlit.log
+streamlit.err.log
