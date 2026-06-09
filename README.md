@@ -108,5 +108,7 @@ Build the RAG index:
 ```bash
 python scripts/build_rag_index.py --reset --min-dates 90 --limit 500
 ```
-
-
+License
+```bash
+MIT
+```
